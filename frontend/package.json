@@ -1,0 +1,15 @@
+{
+  "name": "api-rest-frontend",
+  "version": "1.0.0",
+  "description": "Frontend para API REST en Node.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=8080 --open=/index.html",
+    "dev": "live-server --port=8080 --open=/index.html"
+  },
+  "author": "Jose Antonio Solis",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+} 
